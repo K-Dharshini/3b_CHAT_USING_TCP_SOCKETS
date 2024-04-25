@@ -1,4 +1,4 @@
-# EXP6. CREATION FOR CHAT USING TCP SOCKETS
+# Ex.No:3b CHAT USING TCP SOCKETS
 
 ## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
